@@ -24,6 +24,6 @@ _CountNet_ is a deep learning model to estimate the number of concurrent speaker
 
 <img width="400" align ="left" alt="screen shot 2017-11-21 at 12 35 28" src="images/Mfccs.jpeg"> 
 
-<img width="400" align="right" alt="screen shot 2017-11-21 at 12 35 28" src="images/spectrogram.png">
+<img width="300" align="right" alt="screen shot 2017-11-21 at 12 35 28" src="images/spectrogram.png">
   
 
