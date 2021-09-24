@@ -46,5 +46,16 @@ _CountNet_ is a deep learning model to estimate the number of concurrent speaker
 * Counting Male accuracy : **87%**
 * Counting Female accuracy : **85%**
 * Average accuracy : **86%**
-  
+ 
+ 
+## Methods to improve accuracy of the model
+
+
+*  Try out different loss functions, optimizers,  learning rates and activation function
+
+*  Experiment with different types of network architectures, dense layers and number of neurons
+
+* We can use keras tuner to try out different combinations which can increase validation accuracy
+
+* We can also use also data augmentation  to increase the size of dataset by adding some random noise
 
