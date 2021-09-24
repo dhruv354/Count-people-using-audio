@@ -29,7 +29,7 @@ _CountNet_ is a deep learning model to estimate the number of concurrent speaker
 
 ## Procedure
 * First prepare the training data from the dataset by converting **.wav** file into mfccs features and **spectrograms** for the second model using librosa linrary
-* Do the necessary preprocessing for both the models like resizing of images and reshaping into mfccs 
+* Do the necessary preprocessing for both the models like resizing of images and reshaping of mfccs vectors
 * Also add your own traning data by uploading audio files and preprocess and add the relevant labels
 * Split data into training and testing dataset to check performace of model on unseen data
 * Now choose the model architecures, loss function and the optimizer
