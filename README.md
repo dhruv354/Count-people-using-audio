@@ -12,3 +12,14 @@ _CountNet_ is a deep learning model to estimate the number of concurrent speaker
 
 
 
+## Problem Thinking 
+**I followed two types of approahes to solve this problem:**
+
+
+<img width="400" align="right" alt="screen shot 2017-11-21 at 12 35 28" src="images/Mfccs.jpeg">
+* First to extract mel-frequency cepstrum coefficients(Mfccs) features using librosa library
+
+
+<img width="400" align="right" alt="screen shot 2017-11-21 at 12 35 28" src="images/spectrogram.png">
+* Second to convert audio into its spectrogram and then passing it to the CNN layers to do the prediction    
+
