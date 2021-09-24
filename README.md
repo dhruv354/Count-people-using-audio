@@ -13,6 +13,8 @@ _CountNet_ is a deep learning model to estimate the number of concurrent speaker
 
 
 ## Problem Thinking 
+### I used two neurons in the last dense layer one for the count of male persons and other for the count of female persons
+
 **I followed two types of approahes to solve this problem:**
 
 
